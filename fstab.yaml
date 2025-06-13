@@ -1,7 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://content.da.live/meetnode/aem-adobe/
     type: markup
-
+      
 folders:
   /products/: /products/default
